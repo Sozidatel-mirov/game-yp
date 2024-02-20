@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - GroundCheck
+  - Inventory
+  - List1
+  - List2
+  - List3
+  - Card
   layers:
   - Default
   - TransparentFX
@@ -12,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - UI1
   - 
   - 
   - 
